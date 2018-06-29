@@ -31,10 +31,6 @@ body {
 h3 {
 	color:#C6C7C4;
 }
-#hero {
-	background-image: url(group.jpg);
-	height: 600px;
-	background-size: cover;
-	background-position: center;
-	margin-bottom: 10px;
+#myCarousel {
+	
 }
